@@ -45,7 +45,7 @@
 </p>
 
 ### 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=udityamerit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=saimerit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 📫 How to reach me **uditmerit@gmail.com**
 
